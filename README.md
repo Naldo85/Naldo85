@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3e96&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98F5FF&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleinaldo+de+Souza;I'm+37+years+old;I'm+from+São+Carlos,+São+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98F5FF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleinaldo+de+Souza;I'm+37+years+old;I'm+from+São+Carlos,+São+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  
 - ✨ Hoje trabalho com controle e planejamento de materiais
@@ -31,7 +31,7 @@
  
 </div>
   
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3e96&height=100&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98F5FF&height=100&section=footer"/>
  
 <!---
 Naldo85/Naldo85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
