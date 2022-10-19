@@ -2,7 +2,6 @@
  
 - ✨ Hoje trabalho com controle e planejamento de materiais
 - 🌱 Atualmente estou estudando java 
-- 👀 Tenho interesse em migrar para a área de tecnologia
 
 <div align="center">
   <a href="https://github.com/Naldo85">
