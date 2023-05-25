@@ -20,7 +20,7 @@
 
    ##
    
-   ![Contribution](https://activity-graph.herokuapp.com/graph?username=Naldo85&theme=chartreuse-dark&hide_border=true&area=true)
+   ![Contribution](https://activity-graph.herokuapp.com/graph?username=Naldo85&theme=chartreuse-dark&hide_border=true&area=false)
  
    ##
 <div>  
