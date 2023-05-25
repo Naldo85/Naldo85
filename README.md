@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleinaldo+de+Souza;I'm+37+years+old;I'm+from+São+Carlos,+São+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  
-- ✨ Hoje trabalho com controle e planejamento de materiais
-- 🌱 Atualmente estou estudando java 
+- ✨ Hoje não estou trabalho 
+- 🌱 Atualmente estou cursando Ciências da Computação ( Unip )
 
 <div align="center">
   <a href="https://github.com/Naldo85">
