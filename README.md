@@ -20,7 +20,7 @@
 
    ##
    
-   ![Contribution](https://activity-graph.herokuapp.com/graph?username=Naldo85&theme=chartreuse-dark&hide_border=true&area=true)
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Naldo85=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
    ##
 <div>  
