@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEEA00&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleinaldo+de+Souza;I'm+37+years+old;I'm+from+São+Carlos,+São+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+Com mais 12 anos de experiência como almoxarife, hoje estou cursando Ciências da Computação e em transição de carreira para área de tecnologia da informação, focado em desenvolvimento 'web'. Escolhi a área da tecnologia porque amo e também porque há possibilidades ilimitadas de obter conhecimento, inovação, capacidade de criar, e o compartilhamento do mesmo conhecimento adquirido. Tecnologias que amo: 
+HTML, CSS, JAVASCRIPT, BOOTSTRAP.
 
  
 - ✨ Hoje não estou trabalho 
@@ -28,7 +29,6 @@
  
 </div>
   
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEEA00&height=100&section=footer"/>
  
 <!---
 Naldo85/Naldo85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
