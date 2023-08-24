@@ -29,8 +29,8 @@ Atualmente estou cursando Ciências da Computação e em transição de carreira
  
 <br/><h3 align="left">Conecte-se comigo</h3>
  <h2 align="right">
- <a href="mailto:scleinaldo85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email%3F-ok-blue?style=for-the-badge" alt="Sistema web Ok" /></a>
- <a href="https://www.linkedin.com/in/cleinaldo-souza/" target="_blank"><img src="https://img.shields.io/badge/email%3F-ok-blue?style=for-the-badge" alt="Sistema web Ok" /></a>
+ <a href="mailto:scleinaldo85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email%3F-enviar-blue?style=for-the-badge" alt="Sistema web Ok" /></a>
+ <a href="https://www.linkedin.com/in/cleinaldo-souza/" target="_blank"><img src="https://img.shields.io/badge/linkedin%3F-acessar-blue?style=for-the-badge" alt="Sistema web Ok" target="_blank"/></a>
 </h2>
 
 <div>  
