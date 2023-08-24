@@ -15,28 +15,23 @@ Atualmente estou cursando Ciências da Computação e em transição de carreira
 <div align="left">
   <a href="https://github.com/Naldo85">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naldo85&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
- 
-</div>
+   
+ <div aign="left"></br>
+  <h3 align="leftt">Linguagens de Programaçõa</h3>
+  <img align="left" alt="Naldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Naldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align=left" alt="Naldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Naldo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+</div> 
+ </div>
 
-<div aign="right"><br>
-  <img align="center" alt="Naldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Naldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Naldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Naldo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-</div>
-
-
- 
-<br/><h3 align="right">Conecte-se comigo</h3>
- <h2 align="right">
- <a href="mailto:scleinaldo85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email%3F-enviar-blue?style=for-the-badge" alt="Sistema web Ok" /></a>
- <a target="_blank" href="https://www.linkedin.com/in/cleinaldo-souza/" target="_blank"><img src="https://img.shields.io/badge/linkedin%3F-acessar-blue?style=for-the-badge" alt="Sistema web Ok" /></a>
+<div>
+<br/><h3 align="left">Conecte-se comigo</h3>
+ <h2 align="left" width="100">
+ <a href="mailto:scleinaldo85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email%5F-enviar-red?style=for-the-badge" alt="Sistema web Ok" /></a>
+ <a href="https://www.linkedin.com/in/cleinaldo-souza/" target="_blank"><img src="https://img.shields.io/badge/linkedin%5F-acessar-red?style=for-the-badge" alt="Sistema web Ok" /></a>
 </h2>
 
-<div>  
-
- 
-  ##
  <div align="center">
     <img align="left" alt="Logo Naldo85" width="100px" src="https://github.com/Naldo85/Naldo85/assets/82780957/400f1d02-2203-4d45-9701-992918a3c9ae"></a>
     <img align="center" alt="Logo Naldo85" width="100px" src="https://github.com/Naldo85/Naldo85/assets/82780957/400f1d02-2203-4d45-9701-992918a3c9ae"></a>
