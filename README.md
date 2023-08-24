@@ -1,18 +1,21 @@
+ <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/Naldo85/Naldo85/assets/82780957/e6cf1be1-9aec-4ed3-8e48-008b39b1ccb3"> 
 
 <h1>
     <a href="https://github.com/Naldo85">
-     <img align="left" alt="Logo Naldo85" width="40px" src="https://github.com/Naldo85/Naldo85/assets/82780957/7d986f92-8b9d-474f-8fbc-ca45510ecac4"></a>
+    <img align="left" alt="Logo Naldo85" width="40px" src="https://github.com/Naldo85/Naldo85/assets/82780957/7d986f92-8b9d-474f-8fbc-ca45510ecac4"></a>
     <span>Cleinaldo de Souza</span>
 </h1>
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://github.com/Naldo85/Naldo85/assets/82780957/e6cf1be1-9aec-4ed3-8e48-008b39b1ccb3">     
-Atualmente estou cursando Ciências da Computação e em transição de carreira para área de tecnologia da informação, focado em desenvolvimento 'web'. Escolhi a área da tecnologia porque amo e também porque há possibilidades ilimitadas de obter conhecimento, inovação, capacidade de criar, e o compartilhamento desses aprendizados. Conhecimentos adquirido no processo de transição de carreira:  HTML; CSS; JAVASCRIPT; BOOTSTRAP.
+<p align="justify">
+Atualmente estou cursando Ciências da Computação e em transição de carreira para área de tecnologia da informação, focado em desenvolvimento 'web'. Escolhi a área da tecnologia porque amo e também porque há possibilidades ilimitadas de obter conhecimento, inovação, capacidade de criar, e o compartilhamento desses aprendizados. Conhecimentos adquirido no processo de transição de carreira:  HTML; CSS; JAVASCRIPT; BOOTSTRAP. 
+</p>
+
 
  </br> 
 <h3 align="left">GitHub Stats</h3>
 <div align="left">
   <a href="https://github.com/Naldo85">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naldo85&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naldo85&layout=compact&langs_count=7&theme=noctis_minimus"/>
+ 
 </div>
 
 <div aign="right"><br>
