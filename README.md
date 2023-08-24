@@ -17,7 +17,7 @@ Atualmente estou cursando Ciências da Computação e em transição de carreira
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naldo85&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
    
  <div aign="left"></br>
-  <h3 align="leftt">Linguagens de Programaçõa</h3>
+  <h3 align="leftt">Linguagens de Programação</h3>
   <img align="left" alt="Naldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Naldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align=left" alt="Naldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
