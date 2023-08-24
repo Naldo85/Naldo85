@@ -29,8 +29,8 @@ Atualmente estou cursando Ciências da Computação e em transição de carreira
    
 <br/><h3 align="left">Conecte-se comigo</h3>
 <div>  
-  <a href = "mailto:scleinaldo85@gmail.com" target="_blank" align="center"><img src="https://github.com/Naldo85/Naldo85/assets/82780957/124d546b-0071-4aa0-b1d4-1840d6c82a90" width="44px "height="48px" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleinaldo-souza/" align="center"><img src="https://github.com/Naldo85/Naldo85/assets/82780957/b64c5a97-368c-4c7c-9b5a-378137def4a2" width="45px" target="_blank"></a> 
+  <a href = "mailto:scleinaldo85@gmail.com" align="center"><img src="https://github.com/Naldo85/Naldo85/assets/82780957/124d546b-0071-4aa0-b1d4-1840d6c82a90" width="44px "height="48px" ></a>
+  <a href="https://www.linkedin.com/in/cleinaldo-souza/" align="center"><img src="https://github.com/Naldo85/Naldo85/assets/82780957/b64c5a97-368c-4c7c-9b5a-378137def4a2" width="45px" ></a> 
  
   ##
  <div align="center">
