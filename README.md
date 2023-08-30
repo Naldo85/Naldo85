@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/Naldo85/Naldo85/assets/82780957/e6cf1be1-9aec-4ed3-8e48-008b39b1ccb3">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://github.com/Naldo85/Naldo85/assets/82780957/e6cf1be1-9aec-4ed3-8e48-008b39b1ccb3">
 
 <h1>
     <a href="https://github.com/Naldo85">
