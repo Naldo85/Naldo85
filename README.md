@@ -6,7 +6,7 @@
     <span>Cleinaldo de Souza</span>
 </h1>
 <p align="justify">
-Atualmente estou cursando Ciências da Computação e em transição de carreira para área de tecnologia da informação, focado em desenvolvimento 'web'. Escolhi a área da tecnologia porque amo e também porque há possibilidades ilimitadas de obter conhecimento, inovação, capacidade de criar, e o compartilhamento desses aprendizados. Conhecimentos adquirido no processo de transição de carreira:  HTML; CSS; JAVASCRIPT; BOOTSTRAP. 
+Atualmente estou cursando Ciências da Computação e em transição de carreira para área de tecnologia da informação. Escolhi a área da tecnologia porque amo e também porque há possibilidades ilimitadas de obter conhecimento, inovação, capacidade de criar, e o compartilhamento desses aprendizados. Conhecimentos adquirido no processo de transição de carreira: HTML; CSS; JAVASCRIPT; GIT/GITHUB; POWER BI. 
 </p>
 
 
