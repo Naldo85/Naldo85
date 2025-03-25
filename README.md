@@ -1,14 +1,22 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://github.com/Naldo85/Naldo85/assets/82780957/e6cf1be1-9aec-4ed3-8e48-008b39b1ccb3">
 
 <h1>
     <a href="https://github.com/Naldo85">
-    <img align="left" alt="Logo Naldo85" width="40px" src="https://github.com/Naldo85/Naldo85/assets/82780957/7d986f92-8b9d-474f-8fbc-ca45510ecac4"></a>
-    <span>Cleinaldo de Souza</span>
+    <span>Cleinaldo de Souza</span> 
+    <img align="right" alt="Developer vector created by storyset - www.freepik.com" bottom="20" height="200" src="https://github.com/Naldo85/Naldo85/assets/82780957/e6cf1be1-9aec-4ed3-8e48-008b39b1ccb3">
 </h1>
+
+### Sobre
 <p align="justify">
-Graduando em Ciências da Computação na Universidade Paulista(Unip), buscando oportunidades para atuar na área e adquirir experiências de forma efetiva e criativa, comprometido a contribuir de forma positiva com as metas e resultados da empresa. 
+ Motivado por uma paixão crescente por tecnologia e inovação, iniciei uma transição de carreira para a área de desenvolvimento frontend. Para isso, estou me dedicando a essa graduação da computação, cursos intensivos, bootcamps e projetos práticos, adquirindo conhecimentos em:
+    
+- Tecnologias: HTML, CSS, JavaScript, React.js, Node.js, Git.
+- Ferramentas: Visual Studio Code e GitHub.
+- Habilidades: desenvolvimento de interfaces responsivas, integração com APIs, versionamento de código e resolução de problemas técnicos.
+
+Essa transição de carreira não representa só um grande desafio, mas também uma oportunidade de crescimento pessoal e profissional. A experiência adquirida na área de almoxarifado, especialmente em organização, gestão de processos e resolução de problemas, tem sido um diferencial na minha jornada como desenvolvedor, permitindo-me abordar projetos com uma visão estratégica e focada em resultados.
 </p>
 
+#
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naldo85&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true)
