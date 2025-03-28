@@ -21,7 +21,6 @@ Essa transição de carreira não representa só um grande desafio, mas também 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cleinaldo-souza/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:scleinaldo85@gmail.com")
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-457?style=for-the-badge)](https://www.dio.me/users/scleinaldo85)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:scleinaldo85@gmail.com")
 
 
 ### Habilidades
