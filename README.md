@@ -17,10 +17,6 @@ Essa transição de carreira não representa só um grande desafio, mas também 
 
 #
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naldo85&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true)
-##
-
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-457?style=for-the-badge)](https://www.dio.me/users/scleinaldo85)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:scleinaldo85@gmail.com")
@@ -34,6 +30,11 @@ Essa transição de carreira não representa só um grande desafio, mas também 
 [![GitHub](https://img.shields.io/badge/GitHub-457?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ##
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naldo85&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true)
+##
+
 
  <div align="center">
     <img align="left" alt="Logo Naldo85" width="100px" src="https://github.com/Naldo85/Naldo85/assets/82780957/400f1d02-2203-4d45-9701-992918a3c9ae"></a>
