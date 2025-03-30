@@ -23,7 +23,7 @@ Essa transição de carreira não representa só um grande desafio, mas também 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleinaldosouza/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-457?style=for-the-badge&logo=dio&logoColor=blue)](https://www.dio.me/users/scleinaldo85)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/naldo.dasilva.7)
-
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cleinaldo_85)
 
 ### Habilidades
 ![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,css,git,github)
