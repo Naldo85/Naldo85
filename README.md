@@ -4,7 +4,6 @@
     <span>Seja bem-vindo 👋</span> 
 </h1>
 
-### Sobre
 <p align="justify">
  Motivado por uma paixão crescente por tecnologia e inovação, iniciei uma transição de carreira para a área de desenvolvimento frontend. Para isso, estou me dedicando a essa graduação da computação, cursos intensivos, bootcamps e projetos práticos, adquirindo conhecimentos em:
     
