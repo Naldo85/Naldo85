@@ -5,13 +5,29 @@
 </h1>
 
 <p align="justify">
- Motivado por uma paixão crescente por tecnologia e inovação, iniciei uma transição de carreira para a área de desenvolvimento frontend. Para isso, estou me dedicando a essa graduação da computação, cursos intensivos, bootcamps e projetos práticos, adquirindo conhecimentos em:
     
-- Tecnologias: HTML, CSS, JavaScript, React.js, Node.js, Git.
-- Ferramentas: Visual Studio Code e GitHub.
-- Habilidades: desenvolvimento de interfaces responsivas, integração com APIs, versionamento de código e resolução de problemas técnicos.
+### 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝗱𝗼𝘀 𝗲𝗺 𝗳𝗼𝗿𝗺𝗮çã𝗼 | 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, 𝗦𝗤𝗟 & 𝗣𝘆𝘁𝗵𝗼𝗻 | 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝗻𝗱𝗼 𝗱𝗮𝗱𝗼𝘀 𝗲𝗺 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗰𝗶𝗼𝗻á𝘃𝗲𝗶𝘀
 
-Essa transição de carreira não representa só um grande desafio, mas também uma oportunidade de crescimento pessoal e profissional. A experiência adquirida na área de almoxarifado, especialmente em organização, gestão de processos e resolução de problemas, tem sido um diferencial na minha jornada como desenvolvedor, permitindo-me abordar projetos com uma visão estratégica e focada em resultados.
+Em transição de carreira para a área de dados, com formação em Análise e Desenvolvimento de Sistemas e certificações em:
+
+ - Visualização de Dados: Power BI (DAX, Power Query)
+
+ - Análise de Dados: Python (Pandas, NumPy), Estatística Descritiva
+
+ - Banco de Dados: SQL Server, Modelagem Dimensional
+
+ - Ferramentas: Excel Intermediário, Git, GitHub
+
+### 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗶𝘀 𝗖𝗼𝗺𝗽𝗲𝘁ê𝗻𝗰𝗶𝗮𝘀:
+- Desenvolvimento de dashboards e relatórios estratégicos em Power BI
+
+- Modelagem de dados e criação de modelos relacionais otimizados
+
+- Transformação e tratamento de dados usando Power Query e Python
+
+- Análise de KPIs e métricas de negócio para suporte à decisão
+
+Minha experiência anterior em almoxarifado me proporcionou visão prática de processos empresariais, entendimento de fluxos operacionais e capacidade de traduzir necessidades de negócio em soluções de dados eficientes.
 </p>
 
 #
@@ -25,7 +41,7 @@ Essa transição de carreira não representa só um grande desafio, mas também 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@cleinaldo_85)
 
 ### Habilidades
-![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,css,git,github)
+![My Skills](https://skillicons.dev/icons?i=py,js,html,nodejs,css,git,github,sqlite)
 
 ##
 
